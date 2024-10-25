@@ -13,3 +13,4 @@
 |-----------------------------------|---------------------------------------------------------------------|---------|
 | Como Construir Páginas Fáceis de Testar React.JS | [artigo](./POSTS/1729771983913.pdf) | PDF     |
 | Desvendando Clean Architecture | [artigo](./POSTS/1722255239556.pdf) | PDF     |
+| Como o Javascript Funciona? | [artigo](./POSTS/1724674537163.pdf) | PDF     |
