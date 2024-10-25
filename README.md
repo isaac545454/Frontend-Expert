@@ -23,3 +23,4 @@
 | A Melhor Manaeira de Limpar seu JSX | [artigo](./POSTS/1719162360215.pdf) | PDF     |
 | Crie Funções Melhores em Typescript  | [artigo](./POSTS/1718622172330.pdf) | PDF     |
 | Criando Funções Fortemente Tipadas  | [artigo](./POSTS/1716897301697.pdf) | PDF     |
+| Internacionalização de APP React.js |  [artigo](./POSTS/1716204529772.pdf) | PDF     |
