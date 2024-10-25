@@ -21,3 +21,4 @@
 | Desvendando Arquitetura Hexagonal | [artigo](./POSTS/1721037625945.pdf) | PDF     |
 | Arquitetura Baseada em BFF | [artigo](./POSTS/1720439960684.pdf) | PDF     |
 | A Melhor Manaeira de Limpar seu JSX | [artigo](./POSTS/1719162360215.pdf) | PDF     |
+| Crie FunçÕes Melhores em Typescript  | [artigo](./POSTS/1718622172330.pdf) | PDF     |
