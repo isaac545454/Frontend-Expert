@@ -11,9 +11,10 @@
 
 | Título                           | Caminho (URL)                                                      | Formato |
 |-----------------------------------|---------------------------------------------------------------------|---------|
-| Como Construir Páginas Fáceis de Testar React.JS | [artigo](./POSTS/1729771983913.pdf) | PDF     |
+| Como Construir Páginas Fáceis de Testar React.js | [artigo](./POSTS/1729771983913.pdf) | PDF     |
 | Desvendando Clean Architecture | [artigo](./POSTS/1722255239556.pdf) | PDF     |
 | Como o Javascript Funciona? | [artigo](./POSTS/1724674537163.pdf) | PDF     |
 | Desvendando Arquitetura de Micro-Frontends | [artigo](./POSTS/1724070801501.pdf) | PDF     |
 | Desvendando DDD Modelos (Anêmico - Rico) | [artigo](./POSTS/1723464839636.pdf) | PDF     |
 | Desvendando SOLID Principles | [artigo](./POSTS/1722859274695.pdf) | PDF     |
+| Desvendando Arquitetura MVVM em React.js | [artigo](./POSTS/1721649492129.pdf) | PDF     |
