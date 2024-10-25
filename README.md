@@ -16,3 +16,4 @@
 | Como o Javascript Funciona? | [artigo](./POSTS/1724674537163.pdf) | PDF     |
 | Desvendando Arquitetura de Micro-Frontends | [artigo](./POSTS/1724070801501.pdf) | PDF     |
 | Desvendando DDD Modelos (Anêmico - Rico) | [artigo](./POSTS/1723464839636.pdf) | PDF     |
+| Desvendando SOLID Principles | [artigo](./POSTS/1722859274695.pdf) | PDF     |
