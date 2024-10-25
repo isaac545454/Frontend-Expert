@@ -12,3 +12,4 @@
 | Título                           | Caminho (URL)                                                      | Formato |
 |-----------------------------------|---------------------------------------------------------------------|---------|
 | Como Construir Páginas Fáceis de Testar React.JS | [artigo](./POSTS/1729771983913.pdf) | PDF     |
+| Desvendando Clean Architecture | [artigo](./POSTS/1722255239556.pdf) | PDF     |
