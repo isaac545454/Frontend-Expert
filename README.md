@@ -18,3 +18,4 @@
 | Desvendando DDD Modelos (Anêmico - Rico) | [artigo](./POSTS/1723464839636.pdf) | PDF     |
 | Desvendando SOLID Principles | [artigo](./POSTS/1722859274695.pdf) | PDF     |
 | Desvendando Arquitetura MVVM em React.js | [artigo](./POSTS/1721649492129.pdf) | PDF     |
+| Desvendando Arquitetura Hexagonal | [artigo](./POSTS/1721037625945.pdf) | PDF     |
