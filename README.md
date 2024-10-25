@@ -24,3 +24,4 @@
 | Crie Funções Melhores em Typescript  | [artigo](./POSTS/1718622172330.pdf) | PDF     |
 | Criando Funções Fortemente Tipadas  | [artigo](./POSTS/1716897301697.pdf) | PDF     |
 | Internacionalização de APP React.js |  [artigo](./POSTS/1716204529772.pdf) | PDF     |
+| Git Flow + Conventional Commits |  [artigo](./POSTS/1714994173936.pdf) | PDF     |
