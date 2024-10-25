@@ -15,3 +15,4 @@
 | Desvendando Clean Architecture | [artigo](./POSTS/1722255239556.pdf) | PDF     |
 | Como o Javascript Funciona? | [artigo](./POSTS/1724674537163.pdf) | PDF     |
 | Desvendando Arquitetura de Micro-Frontends | [artigo](./POSTS/1724070801501.pdf) | PDF     |
+| Desvendando DDD Modelos (Anêmico | Rico) | [artigo](./POSTS/1723464839636.pdf) | PDF     |
