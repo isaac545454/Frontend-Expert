@@ -20,3 +20,4 @@
 | Desvendando Arquitetura MVVM em React.js | [artigo](./POSTS/1721649492129.pdf) | PDF     |
 | Desvendando Arquitetura Hexagonal | [artigo](./POSTS/1721037625945.pdf) | PDF     |
 | Arquitetura Baseada em BFF | [artigo](./POSTS/1720439960684.pdf) | PDF     |
+| A Melhor Manaeira de Limpar seu JSX | [artigo](./POSTS/1719162360215.pdf) | PDF     |
