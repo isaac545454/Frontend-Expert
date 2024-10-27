@@ -31,6 +31,10 @@
 
 
 >## 🔧 Utils
+| Ferramenta                 | Descrição                              | Link                                         |
+|----------------------------|----------------------------------------|----------------------------------------------|
+| Transforma JSON e Interface | Converte JSON em interface TypeScript | [transform.tools/json-to-typescript](https://transform.tools/json-to-typescript) |
+
 
 >## 🌐 APIs Públicas
 | Título                                     | Link                                                                                               |
