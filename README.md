@@ -33,6 +33,15 @@
 >## 🔧 Utils
 
 >## 🌐 APIs Públicas
+| Título                                     | Link                                                                                               |
+|--------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Rick e Morty API                           | [Documentação da API - Rick e Morty](https://rickandmortyapi.com/documentation)                     |
+
 
 >## 📦 Repositórios Úteis
+| Título                                     | Link                                                                                     |
+|--------------------------------------------|------------------------------------------------------------------------------------------|
+| 120 perguntas Frontend                     | [GitHub - rubenmarcus/120-perguntas-frontend](https://github.com/rubenmarcus/120-perguntas-frontend) |
+| Recursos Frontend                          | [GitHub - yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend)                |
+
 
