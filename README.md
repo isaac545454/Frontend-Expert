@@ -28,3 +28,11 @@
 | Criando CLI em React.js | [artigo](./POSTS/1714392516290.pdf) | PDF     |
 | Deixando Seus Readme.md Perfeitos | [artigo](./POSTS/1712578522217.pdf) | PDF     |
 | Dicas Para Começar a Postar no Linkedin | [artigo](./POSTS/1712125522706.pdf) | PDF     |
+
+
+>## 🔧 Utils
+
+>## 🌐 APIs Públicas
+
+>## 📦 Repositórios Úteis
+
