@@ -44,6 +44,7 @@
 | Título                                     | Link                                                                                               |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Rick e Morty API                           | [Documentação da API - Rick e Morty](https://rickandmortyapi.com/documentation)                     |
+| The Movie Database                         | [Documentação da API - The Movie Database](https://www.themoviedb.org/movie)     |
 
 
 >## 📦 Repositórios Úteis
