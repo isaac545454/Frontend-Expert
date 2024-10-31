@@ -68,3 +68,4 @@
 | Manual de entrevista técnica               | [GitHub - yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)         |
 | Perguntas e respostas da entrevista sobre JavaScript | [GitHub - sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) |
 | Os Algoritmos - JavaScript              | [GitHub - TheAlgorithms/Javascript?tab=readme-ov-file](https://github.com/TheAlgorithms/Javascript?tab=readme-ov-file)      |
+| Perguntas da entrevista React.js         | [GitHub - sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)         |
