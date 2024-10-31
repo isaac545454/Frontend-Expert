@@ -54,5 +54,5 @@
 | Recursos Frontend                          | [GitHub - yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend)                |
 | Perguntas sobre JavaScript                 | [GitHub - lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)                |
 | 33 conceitos que todo desenvolvedor JavaScript deve saber | [GitHub - leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)         |
-
+| Você não sabe JS                           | [GitHub - getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)         |
 
