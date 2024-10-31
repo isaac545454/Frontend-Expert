@@ -53,5 +53,6 @@
 | 120 perguntas Frontend                     | [GitHub - rubenmarcus/120-perguntas-frontend](https://github.com/rubenmarcus/120-perguntas-frontend) |
 | Recursos Frontend                          | [GitHub - yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend)                |
 | Perguntas sobre JavaScript                 | [GitHub - lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)                |
+| 33 conceitos que todo desenvolvedor JavaScript deve saber | [GitHub - leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)         |
 
 
