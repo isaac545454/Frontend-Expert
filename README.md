@@ -66,4 +66,4 @@
 | 33 conceitos que todo desenvolvedor JavaScript deve saber | [GitHub - leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)         |
 | Você não sabe JS                           | [GitHub - getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)         |
 | Manual de entrevista técnica               | [GitHub - yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)         |
-
+| Perguntas e respostas da entrevista sobre JavaScript | [GitHub - sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)   |
