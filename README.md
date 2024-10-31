@@ -52,5 +52,6 @@
 |--------------------------------------------|------------------------------------------------------------------------------------------|
 | 120 perguntas Frontend                     | [GitHub - rubenmarcus/120-perguntas-frontend](https://github.com/rubenmarcus/120-perguntas-frontend) |
 | Recursos Frontend                          | [GitHub - yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend)                |
+| Perguntas sobre JavaScript                 | [GitHub - lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)                |
 
 
