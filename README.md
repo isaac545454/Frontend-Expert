@@ -5,6 +5,7 @@
 | YouTube       | [Assistir](https://www.youtube.com/@the-coding-hub-r2p/videos)     | GitHub        | [Ver Código](https://github.com/isaac545454)                       |
 | Medium        | [Ler](https://medium.com/@Isaac-Gomes)                             | LinkedIn      | [Conectar](https://www.linkedin.com/in/isaac-gomes-matos/)          |
 
+***
 
 
 >## 📚 Posts Técnicos
@@ -32,6 +33,8 @@
 | Cansado de ter Paginas Gigantes em React.js? Aprenda a Dividi-las! | [artigo](./POSTS/1730251623082.pdf) | PDF     |
 
 
+***
+
 
 
 >## 🔧 Utils
@@ -40,11 +43,18 @@
 | Transforma JSON e Interface | Converte JSON em interface TypeScript | [transform.tools/json-to-typescript](https://transform.tools/json-to-typescript) |
 
 
+***
+
+
+
 >## 🌐 APIs Públicas
 | Título                                     | Link                                                                                               |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Rick e Morty API                           | [Documentação da API - Rick e Morty](https://rickandmortyapi.com/documentation)                     |
 | The Movie Database                         | [Documentação da API - The Movie Database](https://www.themoviedb.org/movie)     |
+
+
+***
 
 
 >## 📦 Repositórios Úteis
