@@ -37,10 +37,11 @@
 
 
 
->## 🔧 Utils
+## 🔧 Utils
 | Ferramenta                 | Descrição                              | Link                                         |
 |----------------------------|----------------------------------------|----------------------------------------------|
 | Transforma JSON e Interface | Converte JSON em interface TypeScript | [transform.tools/json-to-typescript](https://transform.tools/json-to-typescript) |
+| Roadmap                    | Ferramenta de planejamento estratégico que delineia objetivos e etapas de um projeto | [roadmap.sh](https://roadmap.sh/) |
 
 
 ***
