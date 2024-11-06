@@ -84,3 +84,4 @@
 | Silicon Valley                           | [Sinopse](https://www.adorocinema.com/series/serie-11701/)                                   | Série |
 | Mr. Robot                                | [Sinopse](https://www.adorocinema.com/series/serie-17966/)                                   | Série |
 | Como Vender Drogas Online                | [Sinopse](https://www.adorocinema.com/series/serie-24352/)                                   | Série |
+| Batalha Bilionária: O Caso Google Earth         | [Sinopse](https://www.adorocinema.com/series/serie-27620/)                 | Série |
