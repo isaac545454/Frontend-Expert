@@ -81,6 +81,7 @@
 | Steve Jobs                               | [Sinopse](https://www.adorocinema.com/filmes/filme-198187/)                               | Filme |
 | Nenhum Sistema Está a Salvo             | [Sinopse](https://www.adorocinema.com/filmes/filme-184748/)                               | Filme |
 | Hacker: Todo Crime Tem um Início        | [Sinopse](https://www.adorocinema.com/filmes/filme-225237/)                               | Filme |
+| Os Estagiários                           | [Sinopse](https://www.adorocinema.com/filmes/filme-206149/)                               | Filme |
 | Silicon Valley                           | [Sinopse](https://www.adorocinema.com/series/serie-11701/)                                   | Série |
 | Mr. Robot                                | [Sinopse](https://www.adorocinema.com/series/serie-17966/)                                   | Série |
 | Como Vender Drogas Online                | [Sinopse](https://www.adorocinema.com/series/serie-24352/)                                   | Série |
