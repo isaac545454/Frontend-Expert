@@ -31,6 +31,7 @@
 | Dicas Para Começar a Postar no Linkedin | [artigo](./POSTS/1712125522706.pdf) | PDF     |
 | Como fazer Injeção de Dependências no React.js | [artigo](./POSTS/1730079996471.pdf) | PDF     |
 | Cansado de ter Paginas Gigantes em React.js? Aprenda a Dividi-las! | [artigo](./POSTS/1730251623082.pdf) | PDF     |
+| Você realmente sabe dar nomes para suas Funçoes ?? | [artigo](./POSTS/1731931534506.pdf) | PDF |
 
 
 ***
